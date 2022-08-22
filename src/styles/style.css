@@ -76,6 +76,10 @@ body {
   width: 100%;
 }
 
+.app-bar .app-bar__navigation ul li a:hover {
+  background-color: #f4f4f5;
+}
+
 /*
   Main Content
 */
